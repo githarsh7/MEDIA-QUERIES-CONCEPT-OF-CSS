@@ -24,7 +24,7 @@ A simple responsive web design project built using **HTML** and **CSS Flexbox**.
   Boxes stack vertically for better readability  
 
 ## Connect With Me 🤝 :
-
-
+- LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
+- Gmail : harshaavardhan8@gmail.com
 
 feel free to give feedback 🙌🏼
